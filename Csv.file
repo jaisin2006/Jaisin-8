@@ -1,0 +1,1 @@
+accidents_by_year = df.groupby(year_col)['Accidents'].sum()
